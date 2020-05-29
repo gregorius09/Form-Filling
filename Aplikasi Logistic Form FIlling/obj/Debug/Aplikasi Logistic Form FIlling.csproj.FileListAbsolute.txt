@@ -1,0 +1,27 @@
+C:\Users\ASUS\source\repos\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\bin\Debug\Aplikasi Logistic Form FIlling.exe.config
+C:\Users\ASUS\source\repos\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\bin\Debug\Aplikasi Logistic Form FIlling.exe
+C:\Users\ASUS\source\repos\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\bin\Debug\Aplikasi Logistic Form FIlling.pdb
+C:\Users\ASUS\source\repos\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\bin\Debug\MetroFramework.Design.dll
+C:\Users\ASUS\source\repos\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\bin\Debug\MetroFramework.dll
+C:\Users\ASUS\source\repos\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ASUS\source\repos\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\obj\Debug\Aplikasi Logistic Form FIlling.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\obj\Debug\Aplikasi_Logistic_Form_FIlling.Form1.resources
+C:\Users\ASUS\source\repos\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\obj\Debug\Aplikasi_Logistic_Form_FIlling.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\obj\Debug\Aplikasi Logistic Form FIlling.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\obj\Debug\Aplikasi Logistic Form FIlling.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\obj\Debug\Aplikasi Logistic Form FIlling.exe
+C:\Users\ASUS\source\repos\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\obj\Debug\Aplikasi Logistic Form FIlling.pdb
+C:\Users\ASUS\source\repos\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\obj\Debug\Aplikasi Logistic Form FIlling.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Pem web dan vis\Github\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\bin\Debug\Aplikasi Logistic Form FIlling.exe.config
+C:\Users\User\Documents\Pem web dan vis\Github\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\bin\Debug\Aplikasi Logistic Form FIlling.exe
+C:\Users\User\Documents\Pem web dan vis\Github\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\bin\Debug\Aplikasi Logistic Form FIlling.pdb
+C:\Users\User\Documents\Pem web dan vis\Github\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Documents\Pem web dan vis\Github\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\bin\Debug\MetroFramework.dll
+C:\Users\User\Documents\Pem web dan vis\Github\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Documents\Pem web dan vis\Github\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\obj\Debug\Aplikasi Logistic Form FIlling.csprojAssemblyReference.cache
+C:\Users\User\Documents\Pem web dan vis\Github\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\obj\Debug\Aplikasi_Logistic_Form_FIlling.Form1.resources
+C:\Users\User\Documents\Pem web dan vis\Github\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\obj\Debug\Aplikasi_Logistic_Form_FIlling.Properties.Resources.resources
+C:\Users\User\Documents\Pem web dan vis\Github\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\obj\Debug\Aplikasi Logistic Form FIlling.csproj.GenerateResource.cache
+C:\Users\User\Documents\Pem web dan vis\Github\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\obj\Debug\Aplikasi Logistic Form FIlling.csproj.CopyComplete
+C:\Users\User\Documents\Pem web dan vis\Github\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\obj\Debug\Aplikasi Logistic Form FIlling.exe
+C:\Users\User\Documents\Pem web dan vis\Github\Aplikasi Logistic Form FIlling\Aplikasi Logistic Form FIlling\obj\Debug\Aplikasi Logistic Form FIlling.pdb
